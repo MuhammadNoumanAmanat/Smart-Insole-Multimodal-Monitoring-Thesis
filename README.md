@@ -7,7 +7,7 @@
 **Co-supervisor:** Dr. Sadia Noureen  
 **Publication:** [IEEE INMIC 2025](https://doi.org/10.1109/INMIC65900.2025.11348422) · DOI: [10.1109/INMIC65900.2025.11348422](https://doi.org/10.1109/INMIC65900.2025.11348422)
 
-> **Document status:** The full bachelor's thesis and project poster are being prepared for public release. Once the university-approved thesis copy and sharing permissions are confirmed, direct PDF links will appear below. This is an experimental engineering prototype, **not a clinically validated diagnostic device**.
+> **Sharing status:** The project authors, supervisors, and university have approved publication of the bachelor's thesis and poster, as confirmed by Muhammad Nouman. The updated thesis and poster are pending upload to the `docs/` folder. **3D hardware files and selected project images will be shared; source code, trained model files, and research datasets will remain private.** This is an experimental engineering prototype, **not a clinically validated diagnostic device**.
 
 ## Overview
 
@@ -69,21 +69,23 @@ These figures come from different sections/documents; they **should not be treat
 
 | Material | Availability |
 | --- | --- |
-| **Bachelor's thesis (PDF)** | Pending upload of university-approved version |
-| **Final-year-project poster (PDF)** | Pending public-release permission and upload |
+| **Bachelor's thesis (PDF)** | Approved for sharing; [upload pending in `docs/`](docs/) |
+| **Final-year-project poster (PDF)** | Approved for sharing; [upload pending in `docs/`](docs/) |
 | **IEEE INMIC 2025 paper** | [Publisher record and DOI](https://doi.org/10.1109/INMIC65900.2025.11348422) |
-| Prototype photographs and result plots | Pending selection and upload |
-| MATLAB, Python, and microcontroller source code | Pending code review and publication clearance |
+| Prototype photographs and result plots | [Selected images to be uploaded in `Hardware-Images/`](Hardware-Images/) |
+| 3D-printed enclosure and CAD/STL models | [Public hardware files to be uploaded in `Hardware_Files/`](Hardware_Files/) |
+| Python, MATLAB, and microcontroller source code | **Private — not being released** |
+| Trained model/checkpoints | **Private — not being released** |
 | Participant-level/raw biomedical data | **Not publicly released** |
 
-The repository will be expanded with selected figures, authorized source code, and an execution guide where possible.
+This repository is a **research documentation and hardware-design portfolio** rather than a fully reproducible software release. It will include approved thesis documents, hardware assets, and selected non-identifying result figures. Source code and underlying datasets will not be shared. For uploading instructions, see [UPLOAD_CHECKLIST.md](UPLOAD_CHECKLIST.md).
 
 ## Limitations and responsible use
 
 - The participant study was limited in size; there is no documented large-scale, independent clinical validation.
 - Classification metrics should not be interpreted as reliable clinical screening performance.
 - Sensor readings can depend on placement, motion, calibration, and participant characteristics.
-- To protect research participants, identifiable information and raw health-related records are excluded from public release.
+- To protect research participants and comply with the chosen sharing scope, **all raw data, trained models and source code are excluded from public release**.
 - The published conference article is linked via its official DOI instead of uploading an unlicensed publisher PDF.
 
 ## Citation
