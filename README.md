@@ -7,8 +7,6 @@
 **Co-supervisor:** Dr. Sadia Noureen  
 **Publication:** [IEEE INMIC 2025](https://doi.org/10.1109/INMIC65900.2025.11348422) · DOI: [10.1109/INMIC65900.2025.11348422](https://doi.org/10.1109/INMIC65900.2025.11348422)
 
-> **Sharing status:** The project authors, supervisors, and university have approved publication of the bachelor's thesis and poster, as confirmed by Muhammad Nouman. The updated thesis and poster are pending upload to the `docs/` folder. **3D hardware files and selected project images will be shared; source code, trained model files, and research datasets will remain private.** This is an experimental engineering prototype, **not a clinically validated diagnostic device**.
-
 ## Overview
 
 Diabetic foot ulcers can be associated with abnormal plantar loading and changes in local physiological conditions. Our final-year project investigated a **wearable multimodal smart-insole prototype** for collecting and visualizing relevant sensor measurements and assessing patterns in time-series data with machine learning.
