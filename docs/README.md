@@ -1,10 +1,9 @@
-# Approved thesis documents
+# Thesis and poster
 
-The university, co-authors and supervisors have approved public sharing of the bachelor's thesis and project poster (permission reported by the project author).
+This directory contains the university-approved research documents for the bachelor's final-year project **Wearable Smart Insole for Early Diabetic Foot Ulcer Prediction Using Multi-Modal Sensing** (ITU Lahore, 2025).
 
-Upload the approved files into this directory using the GitHub web interface:
+- **[Bachelor's thesis (PDF)](Muhammad_Nouman_Bachelors_Thesis.pdf)**
+- **[Research poster (PDF)](Muhammad_Nouman_Thesis_poster.pdf)**
+- **[IEEE INMIC 2025 publication](https://doi.org/10.1109/INMIC65900.2025.11348422)** (publisher DOI; the publisher's PDF is not redistributed here)
 
-- `bachelors_thesis.pdf` — final, approved BSc dissertation.
-- `thesis_poster.pdf` — approved project poster.
-
-This repository links to the peer-reviewed IEEE article via the publisher DOI rather than distributing the publisher PDF. Please inspect the thesis for residual template placeholders before making it public.
+**Authors:** Muhammad Nouman and Abdul Rahman. Public sharing of the thesis and poster has been confirmed by the project author as approved by the university, supervisors and co-author.
