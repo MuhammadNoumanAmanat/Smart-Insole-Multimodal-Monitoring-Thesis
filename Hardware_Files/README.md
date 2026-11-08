@@ -1,10 +1,12 @@
-# 3D hardware design files
+# Mechanical design and 3D-printing assets
 
-This directory is intended for the project's publicly shareable 3D-printed enclosure and support models, including STL files and, where permitted, SolidWorks/CAD files.
+Mechanical CAD assemblies, parts and STL exports for the prototype's two electronics modules:
 
-Suggested layout:
+| Hardware module | SolidWorks files | STL exports |
+| --- | --- | --- |
+| **Receiver side** | [CAD assemblies / parts](Receiver%20Side/cad/) | [STL models](Receiver%20Side/stl/) |
+| **Transmitter side** | [CAD assemblies / parts](Transmitor%20Side/cad/) | [STL models](Transmitor%20Side/stl/) |
 
-- `stl/` — print-ready exports (recommended first).
-- `cad/` — editable mechanical CAD files, if cleared for distribution.
+The repository preserves the original file and folder names (including `Transmitor Side`) to avoid breaking links. The CAD files include SolidWorks `.SLDPRT` / `.SLDASM` formats, while `.STL` exports are generally easier to inspect in common 3D viewers.
 
-No source code, trained models, or research datasets are being published in this repository. Hardware models remain attributed to their creators. No open-source license has been granted by default.
+The hardware design files are provided as research artifacts; **no open-source license is granted by default**. Python, MATLAB, and microcontroller source code and datasets are not publicly released.
