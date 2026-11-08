@@ -3,7 +3,7 @@
 **Bachelor's Thesis / Final-Year Project · BSc Electrical Engineering · Information Technology University of the Punjab (ITU), Lahore · 2025**
 
 **Authors:** Muhammad Nouman and Abdul Rahman  
-**Supervisor:** Prof. Dr. Muhammad Qasim Mehmood  
+**Supervisor:** Prof. Dr. Qasim Mehmood  
 **Co-supervisor:** Dr. Sadia Noureen  
 **Publication:** [IEEE INMIC 2025](https://doi.org/10.1109/INMIC65900.2025.11348422) · DOI: [10.1109/INMIC65900.2025.11348422](https://doi.org/10.1109/INMIC65900.2025.11348422)
 
