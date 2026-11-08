@@ -7,6 +7,19 @@
 **Co-supervisor:** Dr. Sadia Noureen  
 **Publication:** [IEEE INMIC 2025](https://doi.org/10.1109/INMIC65900.2025.11348422) · DOI: [10.1109/INMIC65900.2025.11348422](https://doi.org/10.1109/INMIC65900.2025.11348422)
 
+## Thesis and project materials
+
+The **university-approved bachelor's thesis** and **research poster** are publicly available here, together with prototype visuals, results, CAD files, and a short demonstration video. The university, supervisors, and co-authors have approved sharing the thesis and poster, as confirmed by the project team.
+
+- 📄 **[Read the bachelor's thesis (PDF)](docs/Muhammad_Nouman_Bachelors_Thesis.pdf)**
+- 🖼️ **[View the research poster (PDF)](docs/Muhammad_Nouman_Thesis_poster.pdf)**
+- 🎬 **[Watch the initial hardware demonstration](Hardware_Initial_Demo.mp4)**
+- 📷 **[Explore prototype photographs](Hardware-Images/Hardware_Prototype/)**
+- 📊 **[Explore experimental results and visualizations](Hardware-Images/Results/)**
+- 🧩 **[Browse 3D hardware and enclosure models](Hardware_Files/)**
+
+**Public release scope:** The thesis, poster, selected images, video, and mechanical CAD/STL models are public. **Python/MATLAB/microcontroller source code, trained models, and research datasets remain private.** This repository documents the project and does not claim to provide a fully reproducible software implementation.
+
 ## Overview
 
 Diabetic foot ulcers can be associated with abnormal plantar loading and changes in local physiological conditions. Our final-year project investigated a **wearable multimodal smart-insole prototype** for collecting and visualizing relevant sensor measurements and assessing patterns in time-series data with machine learning.
@@ -63,20 +76,33 @@ The bachelor's thesis (Chapter 6) describes a time-series classification pipelin
 
 These figures come from different sections/documents; they **should not be treated as directly equivalent benchmark runs**. Source code, evaluation splits, label definitions, and the precise experimental protocol need to be checked before stronger reproducibility claims are made. The project has not established clinical diagnostic accuracy or prospective prediction of future ulceration.
 
+## Selected visuals
+
+| Hardware prototype | Plantar pressure monitoring |
+| :---: | :---: |
+| ![Assembled wearable insole prototype](Hardware-Images/Hardware_Prototype/2.png) | ![Recorded FSR plantar pressure values](Hardware-Images/Results/FSR%20Sensors%20Pressure%20Monitoring.png) |
+
+| Classification confusion matrix | Gait-cycle analysis |
+| :---: | :---: |
+| ![Experimental classification confusion matrix](Hardware-Images/Results/Confusion_Matrix.png) | ![Gait-cycle monitoring results](Hardware-Images/Results/Gait%20Cycle%20Results.png) |
+
+Additional materials include [FSR sensor sensitivity](Hardware-Images/Results/FSR_Sensors_Sensitivity_Analysis.png), [SHT31 temperature and humidity measurements](Hardware-Images/Results/SHT31%20Temperature%20%26%20Humidity%20Monitoring.png), [MAX30102 pulse oximetry and heart-rate monitoring](Hardware-Images/Results/MAX30102%20Spo2%20and%20Heart%20Rate%20Monitoring.png), and [the sensor-input radar chart](Hardware-Images/Results/Sensors_Input_Radar.png). Figures are presented as project outputs; they do not establish clinical effectiveness.
+
 ## Research outputs
 
 | Material | Availability |
 | --- | --- |
-| **Bachelor's thesis (PDF)** | Approved for sharing; [upload pending in `docs/`](docs/) |
-| **Final-year-project poster (PDF)** | Approved for sharing; [upload pending in `docs/`](docs/) |
+| **Bachelor's thesis (PDF)** | **[Read the full approved dissertation](docs/Muhammad_Nouman_Bachelors_Thesis.pdf)** |
+| **Research poster (PDF)** | **[View the approved poster](docs/Muhammad_Nouman_Thesis_poster.pdf)** |
 | **IEEE INMIC 2025 paper** | [Publisher record and DOI](https://doi.org/10.1109/INMIC65900.2025.11348422) |
-| Prototype photographs and result plots | [Selected images to be uploaded in `Hardware-Images/`](Hardware-Images/) |
-| 3D-printed enclosure and CAD/STL models | [Public hardware files to be uploaded in `Hardware_Files/`](Hardware_Files/) |
+| Prototype photographs and result plots | **[Hardware photographs](Hardware-Images/Hardware_Prototype/)** · **[Results and graphs](Hardware-Images/Results/)** |
+| CAD assemblies and STL hardware models | **[Receiver-side files](Hardware_Files/Receiver%20Side/)** · **[Transmitter-side files](Hardware_Files/Transmitor%20Side/)** |
 | Python, MATLAB, and microcontroller source code | **Private — not being released** |
 | Trained model/checkpoints | **Private — not being released** |
-| Participant-level/raw biomedical data | **Not publicly released** |
+| Participant-level/raw biomedical data | **Private — not publicly released** |
+| Initial hardware demonstration video | **[View demo](Hardware_Initial_Demo.mp4)** |
 
-This repository is a **research documentation and hardware-design portfolio** rather than a fully reproducible software release. It will include approved thesis documents, hardware assets, and selected non-identifying result figures. Source code and underlying datasets will not be shared. For uploading instructions, see [UPLOAD_CHECKLIST.md](UPLOAD_CHECKLIST.md).
+This repository is a **research documentation and hardware-design portfolio**, not a fully reproducible software release. The thesis documents, prototype imagery, visualizations, demonstration video and CAD/STL hardware assets are available above; underlying software and datasets are not publicly distributed.
 
 ## Limitations and responsible use
 
